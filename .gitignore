@@ -1,0 +1,6 @@
+.cake/*
+!.cake/packages.config
+
+.vs/
+bin/
+obj/
