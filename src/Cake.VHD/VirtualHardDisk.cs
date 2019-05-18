@@ -6,5 +6,7 @@ namespace Cake.VHD
 {
     public class VirtualHardDisk
     {
+        public string Path { get; internal set; }
+        public uint DiskNumber { get; internal set; }
     }
 }
